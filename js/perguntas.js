@@ -19,20 +19,20 @@ const perguntas = [
     ]
   },
   {
-    enunciado: "Você prefere sertanejo ou funk?",
+    enunciado: "Você comida salgada ou doce?",
     alternativas: [
       {
-        texto: "afirmativas 1" ,
+        texto: "salgada" ,
         afirmacao: [
-          "afirmação 1" ,
-          "afirmação 2"
+          "tem muitas opções de comidas boas" ,
+          ""
         ],
       },
        {
-        texto: "afirmativas 2" ,
+        texto: "sertanejo" ,
         afirmacao: [
-          "afirmação 1" ,
-          "afirmação 2"
+          "" ,
+          "um estilo bom de musica"
         ],
       },
     ]
