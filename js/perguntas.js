@@ -1,13 +1,14 @@
 const perguntas = [
   {
-    enunciado: "Vocẽ torce pro coxa ou pro atlhetico?",
+    enunciado: "",
     alternativas: [
       {
-        texto: "afirmativas 1" ,
+        texto: "afirmativas" ,
         afirmacao: [
           "afirmação 1" ,
           "afirmação 2"
         ],
+        proxima: 
       },
        {
         texto: "afirmativas 2" ,
@@ -15,6 +16,7 @@ const perguntas = [
           "afirmação 1" ,
           "afirmação 2"
         ],
+         proxima 1,
       },
     ]
   },
@@ -27,6 +29,7 @@ const perguntas = [
           "tem muitas opções de comidas boas" ,
           ""
         ],
+        proxima 2;
       },
        {
         texto: "sertanejo" ,
@@ -34,6 +37,7 @@ const perguntas = [
           "" ,
           "um estilo bom de musica"
         ],
+         proxima 2;
       },
     ]
   },
@@ -46,6 +50,7 @@ const perguntas = [
           "afirmação 1" ,
           "afirmação 2"
         ],
+        proxima 3;
       },
        {
         texto: "afirmativas 2" ,
@@ -53,6 +58,7 @@ const perguntas = [
           "afirmação 1" ,
           "afirmação 2"
         ],
+         proxima 3;
       },
     ]
   },
@@ -65,6 +71,7 @@ const perguntas = [
           "afirmação 1" ,
           "afirmação 2"
         ],
+        proxima 3;
       },
        {
         texto: "afirmativas 2" ,
@@ -72,6 +79,7 @@ const perguntas = [
           "afirmação 1" ,
           "afirmação 2"
         ],
+         proxima 4;
       },
     ]
   },
