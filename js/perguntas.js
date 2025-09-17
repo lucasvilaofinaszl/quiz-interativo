@@ -8,7 +8,7 @@ const perguntas = [
           "Você tem muitas opções de pratos deliciosos, como pizzas, pastéis e salgadinhos." ,
           "Comida salgada é perfeita para refeições mais pesadas e saborosas."
         ],
-        proxima 1 ,
+        proxima 1,
       },
        {
         texto: "comida doce" ,
@@ -29,7 +29,7 @@ const perguntas = [
           "Você se preocupa com a saúde, escolhendo alimentos nutritivos e equilibrados" ,
           "Você gosta de saladas frescas, vegetais e pratos ricos em proteínas e fibras"
         ],
-        proxima 2;
+        proxima 2,
       },
        {
         texto: "Refeição indulgente" ,
@@ -37,7 +37,7 @@ const perguntas = [
           "Você gosta de se permitir comer algo mais calórico de vez em quando" ,
           "Frituras, hambúrgueres e doces são suas escolhas preferidas."
         ],
-         proxima 2;
+         proxima 2,
       },
     ]
   },
@@ -50,7 +50,7 @@ const perguntas = [
           "Você adora atividades como caminhadas, trilhas ou praticar esportes ao ar livre" ,
           "Estar em contato com a natureza é uma das melhores formas de relaxar e se energizar."
         ],
-        proxima 3;
+        proxima 3,
       },
        {
         texto: "Atividades dentro de casa" ,
@@ -58,7 +58,7 @@ const perguntas = [
           "Você prefere passar o tempo em um ambiente mais tranquilo, assistindo filmes ou lendo livros." ,
           "ogar videogame, cozinhar ou fazer atividades criativas em casa também são maneiras perfeitas de relaxar."
         ],
-         proxima 3;
+         proxima 3,
       },
     ]
   },
