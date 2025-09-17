@@ -1,14 +1,14 @@
 const perguntas = [
   {
     enunciado: "Qual tipo de comida você prefere?",
-    alternativas: [ comida salgada ou comida doce 
+    alternativas: [ 
       {
         texto: "comida salgada" ,
         afirmacao: [ 
           "Você tem muitas opções de pratos deliciosos, como pizzas, pastéis e salgadinhos." ,
           "Comida salgada é perfeita para refeições mais pesadas e saborosas."
         ],
-        proxima 1,
+        proxima 1 ,
       },
        {
         texto: "comida doce" ,
